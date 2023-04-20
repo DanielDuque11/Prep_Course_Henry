@@ -1,2 +1,1 @@
-# Prep_Course_Henry
-Repositorio de prueba modulo dos prep course henry
+Prueba de como crear repositorio y clonarlo desde github a mi escritorio local
